@@ -7,5 +7,5 @@ Instructions:
 ```
 npm install midi-writer-js
 ```
-- Running index.js will create a MIDI (.mid) file as well as an MP3 file.
-- Change different settings in index.js such as the harmonic progression or the tempo to get different pieces.
+- Running index.js will create a MIDI (.mid) file, which can be played or converted into sheet music.
+- Change different settings in index.js such as the harmonic progression or the tempo to get different sounding pieces.
